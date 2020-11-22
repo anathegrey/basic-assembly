@@ -1,3 +1,5 @@
+#Searches for given value using binary search
+
 	.data
 size:	.word	15
 v:	.word	2, 9, 15, 26, 31, 37, 49, 51, 53, 54, 62, 66, 75, 84, 91
